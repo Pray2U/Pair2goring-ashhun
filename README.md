@@ -1,6 +1,7 @@
-# 📔 Pair2goring-ashhun 📔
-Pray2U Pair Programming Go-ring to ash-hun
-
+<div align=center>
+  <h1> 📔 Pair Programming 📔 </h1>
+  <p><i>Pray2U Pair Programming <b>Go-ring</b> to <b>ash-hun</b></i></p>
+</div>
 ---  
 
 ## 📑 Contents
