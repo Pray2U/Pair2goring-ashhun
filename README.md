@@ -13,4 +13,7 @@
 - ### 10.14.
   - Git & Github VCS 활용
 - ### 10.23.
-  - today contents
+  - calculate expression(infix, postfix, prefix)
+- ### 10.28.
+  - upload infix2postfix
+  - statics concept (permutation, combination)
