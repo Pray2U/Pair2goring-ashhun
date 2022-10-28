@@ -2,7 +2,6 @@
   <h1> 📔 Pair Programming 📔 </h1>
   <p><i>Pray2U Pair Programming <b>Go-ring</b> to <b>ash-hun</b></i></p>
 </div>
----  
 
 ## 📑 Contents
 
