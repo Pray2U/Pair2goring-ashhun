@@ -16,3 +16,7 @@
 - ### 10.28.
   - upload infix2postfix
   - statics concept (permutation, combination)
+- ### 10.31.
+  - Career Mentoring
+- ### 11.15.
+  - N-Queen Algorithm
