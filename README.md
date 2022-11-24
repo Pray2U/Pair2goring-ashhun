@@ -20,3 +20,5 @@
   - Career Mentoring
 - ### 11.15.
   - N-Queen Algorithm
+- ### 11.25.
+  - B31R Algorithm
