@@ -5,6 +5,8 @@ import random
 def computer(n, mu):
     x = random.randrange(1, 3)
     for i in range(1, x+1):
+        if n + i > 31:
+            break
         print(f"컴퓨터 {n + i}") # f-string
     n = n + x
     if n >= mu:
