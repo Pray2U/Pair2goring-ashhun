@@ -22,3 +22,5 @@
   - N-Queen Algorithm
 - ### 11.25.
   - B31R Algorithm
+- ### 11.30.
+  - 프로그래머스 "옹알이"
