@@ -13,10 +13,10 @@ def computer(n, mu):
     player(n, mu)
 
 def player(n, mu):
-    x = int(input("input(1~3개) = "))
-    for i in range(1, x+1):
+    t = (mu-n-1) % 4
+    for i in range(1, t+1):
         print(f"플레이어 {n + i}") # f-string
-    n = n + x
+    n = n + t
     if n >= mu:
         print("player 짐")
         return
